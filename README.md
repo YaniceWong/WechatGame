@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # chaoyue
 
 > A Vue.js project
@@ -28,3 +29,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# WechatGame
+A Wechat Game for "YangChaoyue programming competititon".
+>>>>>>> f0057ff7f57452b59d1767be0aa3f25cc8e1115f
